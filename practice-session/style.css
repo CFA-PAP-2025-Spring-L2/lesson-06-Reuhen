@@ -39,3 +39,32 @@ h1 {
 
 
 /* ============ Student code ============= */
+body {
+    background-image: url('images/wallpaper-bg.jpg');
+    background-position: top center;
+}
+img {
+    width: 295px;
+    height: auto;
+    border:ridge 10px #af8b2b; 
+    background-color:#231414;
+    box-shadow: 10px 15px 20px 5px black;
+    margin: auto;  
+}
+h1 {
+    margin: 40px auto 50px auto;
+    padding: 5 px 50px 15px 50px;
+    background-color: #132c33;
+    box-shadow: 10px 15px 20px 5px black;
+}
+div {
+    display: inline-block;
+    width: 325px;
+    padding: 20px;
+    margin: 20px;
+    background-color: #132c33;
+}
+main {
+   max-width: 1600px;
+   margin: auto;
+}
